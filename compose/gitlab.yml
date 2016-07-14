@@ -2,7 +2,7 @@
 jenkins:
   environment:
     ADOP_GERRIT_ENABLED: "false"
-	
+
 gitlab:
   container_name: gitlab
   restart: always
